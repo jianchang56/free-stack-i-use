@@ -12,6 +12,8 @@
 | [GitHub Actions](https://github.com) | 2000 分钟/月 | CI/CD 自动化 | 🔧 |
 | [Sentry](https://sentry.io) | 5k 错误/月 | 错误监控 | 📈 |
 
+- ⚠️ Sentry 不能使用 QQ 邮箱
+
 ## 📎 免责声明
 
 > 所有服务的免费额度以官网最新政策为准，本文档仅为个人使用记录，不构成任何推荐或保证。
